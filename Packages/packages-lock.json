@@ -1,5 +1,7 @@
 {
   "dependencies": {
+Gara's-Development
+
     "com.unity.2d.animation": {
       "version": "12.0.2",
       "depth": 0,
@@ -156,7 +158,8 @@
       "source": "registry",
       "dependencies": {},
       "url": "https://packages.unity.com"
-    },
+    } 
+main
     "com.unity.multiplayer.center": {
       "version": "1.0.0",
       "depth": 0,
@@ -165,6 +168,8 @@
         "com.unity.modules.uielements": "1.0.0"
       }
     },
+Gara's-Development
+
     "com.unity.nuget.mono-cecil": {
       "version": "1.11.5",
       "depth": 2,
@@ -282,6 +287,7 @@
       },
       "url": "https://packages.unity.com"
     },
+main
     "com.unity.modules.accessibility": {
       "version": "1.0.0",
       "depth": 0,
